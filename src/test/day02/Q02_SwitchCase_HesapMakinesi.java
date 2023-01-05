@@ -1,6 +1,4 @@
-package test.day2;
-
-import org.w3c.dom.ls.LSOutput;
+package test.day02;
 
 import java.util.Scanner;
 
